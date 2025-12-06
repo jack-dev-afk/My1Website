@@ -1,4 +1,4 @@
-# My1WebsiteAssets
+# My1Website
 
 Questo repository contiene tutti i file necessari per il funzionamento del sito, inclusi HTML, CSS e eventuali immagini o script utilizzati. È un progetto personale che ho creato per imparare le basi.
 
