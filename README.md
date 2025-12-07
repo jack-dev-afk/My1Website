@@ -27,8 +27,6 @@ git pull origin main --rebase
 
 # 2. Aggiungi le modifiche o i nuovi file/cartelle
 git add percorso/del/file_o_cartella
-# esempio: git add index.html
-# esempio per una cartella: git add assets/decor/Buttons
 
 # 3. Salva le modifiche localmente con un messaggio descrittivo
 git commit -m "Messaggio breve e chiaro sulle modifiche"
