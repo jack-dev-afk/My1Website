@@ -30,7 +30,7 @@ git pull origin main --rebase
 git add .
 
 # 3. Salva le modifiche localmente con un messaggio descrittivo
-git commit -m "Messaggio breve e chiaro sulle modifiche"
+git commit -m "X"
 
 # 4. Invia tutto su GitHub
 git push origin main
