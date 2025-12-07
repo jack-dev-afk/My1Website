@@ -21,16 +21,3 @@ Questo progetto è principalmente a scopo didattico, per esercitarmi con HTML, C
 
 ---
 
-(questo serve a me per aggioranre ogni volta i file)
-cd /home/jack/Documenti/My1Website
-# 1. Scarica le ultime modifiche dal repository remoto
-git pull origin main --rebase
-
-# 2. Aggiungi le modifiche o i nuovi file/cartelle
-git add .
-
-# 3. Salva le modifiche localmente con un messaggio descrittivo
-git commit -m "X"
-
-# 4. Invia tutto su GitHub
-git push origin main
