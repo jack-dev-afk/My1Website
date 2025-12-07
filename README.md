@@ -22,6 +22,7 @@ Questo progetto è principalmente a scopo didattico, per esercitarmi con HTML, C
 ---
 
 (questo serve a me per aggioranre ogni volta i file)
+cd /home/jack/Documenti/My1Website
 # 1. Scarica le ultime modifiche dal repository remoto
 git pull origin main --rebase
 
