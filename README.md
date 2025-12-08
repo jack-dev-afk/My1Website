@@ -17,7 +17,7 @@ Questo repository contiene tutti i file necessari per il funzionamento del sito,
 
 ## Note
 
-Questo progetto è principalmente a scopo didattico, per esercitarmi con HTML, CSS e JavaScript. Ogni suggerimento o contributo è benvenuto!
+Questo progetto è principalmente per imparare, per esercitarmi con HTML, CSS e JavaScript. Quindi perfavore siate comprensivi
 
 ---
 
